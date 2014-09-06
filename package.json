@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/JG247/grunt_karma/issues"
   },
-  "homepage": "https://github.com/JG247/grunt_karma"
+  "homepage": "https://github.com/JG247/grunt_karma",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
