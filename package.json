@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/JG247/grunt_karma",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-ie-launcher": "^0.1.5",
+    "karma-jasmine": "^0.1.5"
   }
 }
